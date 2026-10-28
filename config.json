@@ -1,0 +1,106 @@
+{
+  "out": "/Users/mihail/delamain/projects/smiletime-demo",
+  "name": "Smile Time",
+  "kicker": "Miše Dimitrijevića 1 · Novi Sad",
+  "title": "Smile Time — stomatološka ordinacija u Novom Sadu",
+  "description": "Stomatološka ordinacija Smile Time, Miše Dimitrijevića 1, Novi Sad. Implantologija, protetika, parodontologija, izbeljivanje i Hollywood smile.",
+  "brand": "#1f3a5f",
+  "brand2": "#132640",
+  "accent": "#d4a24c",
+  "logo": "assets/img/logo-color.png",
+  "hero": "assets/img/smile-cekaonica.jpg",
+  "h1": "Osmeh koji se vidi i posle pregleda.",
+  "lead": "Implantologija, protetika, parodontologija i estetska stomatologija — u ordinaciji na Miše Dimitrijevića 1, uz jasan plan lečenja pre početka rada.",
+  "phone": "021 400 449",
+  "phone_link": "+38121400449",
+  "facts": [
+    [
+      "8",
+      "oblasti lečenja"
+    ],
+    [
+      "2",
+      "lekara u timu"
+    ],
+    [
+      "1",
+      "ordinacija u Novom Sadu"
+    ],
+    [
+      "2",
+      "telefona za kontakt"
+    ]
+  ],
+  "services_title": "Oblasti lečenja",
+  "services_lead": "Od lečenja i popravke zuba do implantologije i estetskih zahvata.",
+  "typographic_services": true,
+  "services": [
+    {
+      "title": "Zubni implanti",
+      "text": "Ugradnja implantata, sa planiranjem na snimku pre intervencije."
+    },
+    {
+      "title": "Oralna hirurgija",
+      "text": "Hirurške intervencije u ordinaciji."
+    },
+    {
+      "title": "Protetika",
+      "text": "Krunice, mostovi i proteze izrađene po otisku i probi."
+    },
+    {
+      "title": "Parodontologija",
+      "text": "Lečenje desni i potpornog tkiva zuba."
+    },
+    {
+      "title": "Popravka zuba",
+      "text": "Zamena ispuna i sanacija oštećenih zuba."
+    },
+    {
+      "title": "Lečenje zuba",
+      "text": "Lečenje karijesa i kanala korena."
+    },
+    {
+      "title": "Izbeljivanje zuba",
+      "text": "Estetsko izbeljivanje po protokolu, sa procenom stanja gleđi."
+    },
+    {
+      "title": "Hollywood smile",
+      "text": "Estetska korekcija oblika i boje prednjih zuba."
+    }
+  ],
+  "team": [
+    {
+      "img": "assets/img/Velibor-Smile-Time-Novi-Sad.jpeg",
+      "name": "Dr Velibor",
+      "role": "Doktor stomatologije"
+    },
+    {
+      "img": "assets/img/dr-Milena-Mackic-Smile-Time-Novi-Sad.jpeg",
+      "name": "Dr Milena Mačkić",
+      "role": "Doktor stomatologije"
+    }
+  ],
+  "gallery": [
+    {
+      "img": "assets/img/smile-cekaonica.jpg",
+      "alt": "Čekaonica"
+    },
+    {
+      "img": "assets/img/pre-izbeljivanje-400x284.jpg",
+      "alt": "Pre izbeljivanja"
+    },
+    {
+      "img": "assets/img/posle-izbeljivanje-400x284.jpg",
+      "alt": "Posle izbeljivanja"
+    },
+    {
+      "img": "assets/img/holivud-smajl-smile-time-novi-sad-piktogram.png",
+      "alt": "Hollywood smile"
+    }
+  ],
+  "address": "Miše Dimitrijevića 1, 21000 Novi Sad",
+  "email": "smiletime.rs@gmail.com",
+  "note": "Termin se zakazuje telefonom, na 021 400 449 ili mobilni 065 325 75 76.",
+  "box_text": "Ordinacija je u Miše Dimitrijevića 1. Za prvi pregled dovoljan je poziv — termin dobijate po dogovoru.",
+  "map_query": "Mi%C5%A1e%20Dimitrijevi%C4%87a%201%20Novi%20Sad"
+}
